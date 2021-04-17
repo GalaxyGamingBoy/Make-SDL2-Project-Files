@@ -1,0 +1,3 @@
+1) Copy compile.bat & compile.txt & compileRelease.bat & compileRelease.txt &make_SDL2_Project.bat to main Folder
+2) Run make_SDL2_Project
+3) On Debug & Release add all the dll files
